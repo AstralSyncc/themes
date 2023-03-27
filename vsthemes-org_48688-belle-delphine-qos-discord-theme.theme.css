@@ -1,0 +1,41 @@
+/**
+* @name Belle_Delphine_QBBC
+* @version 0.1
+* @description for more TheExileJinx#5913
+* @author Miku_Shelby
+* @invite ZHthyCw
+* @Source https://github.com/DiscordStyles/FrostedGlass
+* @website https://betterdiscord.app/theme/Frosted%20Glass
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman');
+:root {
+--background-image: url('https://i.imgur.com/AIDrYFd.jpg');
+--background-image-blur: 0px;
+--background-image-size: contain;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/kYW2H5C.jpg');
+--popout-modal-blur: 100px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://i.imgur.com/r6MMCnJ.gif');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.8;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 157,8,122;
+--gradient-secondary: 247,82,229;
+--gradient-direction: 320deg;
+--tint-colour: 255,54,175;
+--tint-brightness: 0.05;
+--window-padding: 21px;
+--window-roundness: 15px;
+--scrollbar-colour: #FF17C80D;
+--link-colour: #F423DDFF;
+--show-gift-gif-buttons: block;
+--font: 'Luxurious Roman';
+--update-notice-1: none;
+}
